@@ -75,14 +75,11 @@ export function TopSection() {
       <Logo>Global Warming</Logo>
       <Slogan>Keep it cool for safe living</Slogan>
       <Paragraph>
-        You can help us cool off our world and have it go back to it's best
-        state ever by donating to help fix our only world and our beloved EARTH!
-        Be cool and let the earth be cool. Let the ice burgs to live. Globe is
-        warming and will set to fire. Stop polluting, it will cost extra.
+        A digital map of the world's climate change.
       </Paragraph>
       <DonateButton>Donate</DonateButton>
       <MadeBy>
-        <u>Made By:</u> Islem Maboud
+        <u>Made By:</u> Bruno Soares
       </MadeBy>
     </TopSectionContainer>
   );
