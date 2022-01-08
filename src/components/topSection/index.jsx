@@ -67,6 +67,7 @@ const MadeBy = styled.h3`
   bottom: 5px;
   left: 50%;
   transform: translateX(-50%);
+  text-decoration:none;
 `;
 
 export function TopSection() {
@@ -79,7 +80,7 @@ export function TopSection() {
       </Paragraph>
       <DonateButton>Donate</DonateButton>
       <MadeBy>
-        <u>Made By:</u> Bruno Soares
+        <a href="https://twitter.com/metasoares">Made By:</a> Bruno Soares
       </MadeBy>
     </TopSectionContainer>
   );
